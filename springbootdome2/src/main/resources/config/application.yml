@@ -1,0 +1,3 @@
+server:
+  host: 8383
+  port: ${server.host}
